@@ -1,3 +1,4 @@
+import fs from 'fs';
 import sharp from 'sharp';
 import { ErrorException, FILE_TYPE } from '@azteam/error';
 
