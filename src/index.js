@@ -1,4 +1,4 @@
-import HttpClient from '@azteam/http-client';
+import sharp from 'sharp';
 import { ErrorException, FILE_TYPE } from '@azteam/error';
 
 class SharpImage {
